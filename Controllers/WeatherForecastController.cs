@@ -4,6 +4,7 @@ namespace dotnet_rpg.Controllers;
 
 [ApiController]
 [Route("[controller]")]
+//test
 public class WeatherForecastController : ControllerBase
 {
     private static readonly string[] Summaries = new[]
